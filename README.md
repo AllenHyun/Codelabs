@@ -21,3 +21,7 @@ Pensaba que habría que hacer más cambio que solo eso para poder cambiar tal ve
 ### Dice Roller
 
 En el segundo Codelab realizado se señala como interesante la forma de introducir las imágenes, puesto que se desconocía esa forma de hacerlo. Cabe añadir que ciertamente era curioso la forma en la que se consigue que aparezca un número aleatorio. Generar el número es sencillo, pero que eso se conecte directamente con la imagen del dado correspondiente. No solo eso, sino que se tiene cuidado de que los números de los lados sean correctos. Son ejercicios simples, pero para una persona que apenas a usado Android Studio, mientras varias cosas.
+
+### Button
+
+Aunque consta de un ejercicio bastante sencillo, donde solo se debe añadir la opción de poner botones que muestren más o menos espacio (en una app funcional, ese espacio estaría cubierto de información que se puede ocultar o mostrar), la funcionalidad de los botones es una gran ayuda. En el proyecto en grupo, se tenía pensado poner algo parecido, así que ya es un codelab que se puede usar desde el principio en la creación de la app para el trabajo final de la asignatura. 
